@@ -1,0 +1,13 @@
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\bin\Debug\netcoreapp3.1\ValorPorContrato.exe
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\bin\Debug\netcoreapp3.1\ValorPorContrato.deps.json
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\bin\Debug\netcoreapp3.1\ValorPorContrato.runtimeconfig.json
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\bin\Debug\netcoreapp3.1\ValorPorContrato.runtimeconfig.dev.json
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\bin\Debug\netcoreapp3.1\ValorPorContrato.dll
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\bin\Debug\netcoreapp3.1\ValorPorContrato.pdb
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\obj\Debug\netcoreapp3.1\ValorPorContrato.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\obj\Debug\netcoreapp3.1\ValorPorContrato.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\obj\Debug\netcoreapp3.1\ValorPorContrato.AssemblyInfo.cs
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\obj\Debug\netcoreapp3.1\ValorPorContrato.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\obj\Debug\netcoreapp3.1\ValorPorContrato.dll
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\obj\Debug\netcoreapp3.1\ValorPorContrato.pdb
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\ValorPorContrato\ValorPorContrato\obj\Debug\netcoreapp3.1\ValorPorContrato.genruntimeconfig.cache
